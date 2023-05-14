@@ -2,7 +2,7 @@ Hi , I'm Mateus Moura.
 
 I'm a junior developer who is taking his first steps in the world of programming.
 
-- 🧠 I’m currently learning: JavaScript, CSS, HTML, GIT, GITHUB, TailWind, NodeJs.
+- 🧠 I’m currently learning: JavaScript, CSS, HTML, GIT, GITHUB, TailWind, NodeJs, ReactJs, Styled Components, Vite.
 
 - 📚 Student of course RocketSeat Explorer 
 
