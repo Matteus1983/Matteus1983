@@ -1,10 +1,10 @@
-Hi , I'm Mateus Moura.
+Hey , My name is Mateus Moura.
 
-I'm a junior developer who is taking his first steps in the world of programming.
+I'm a junior front-end developer that who is looking for the first opportunity like a Dev.
 
-- 🧠 I’m currently learning: JavaScript, CSS, HTML, GIT, GITHUB, TailWind, NodeJs, Express, ReactJs, Styled Components, Vite.
+- My Skills: JavaScript, CSS3, HTML2, TailWind, ReactJs, Styled Components, Vite.
 
-- 📚 Student of course RocketSeat Explorer 
+- English Speaker
 
 - 📫 How to reach me on e-mail: matteus.300@hotmail.com
 
